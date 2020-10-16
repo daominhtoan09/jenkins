@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1bcdaa7-9f42-4f86-af72-1b6adbbff0f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/groovy-tutorial/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/groovy-tutorial/src/com/toandm/groovy/Test.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/groovy-tutorial/src/main/java/com/toandm/groovy/Test.groovy" afterDir="false" />
-    </list>
+    <list default="true" id="e1bcdaa7-9f42-4f86-af72-1b6adbbff0f0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="oracle" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -68,6 +66,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -102,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602816979646</updated>
-      <workItem from="1602816981443" duration="2422000" />
+      <workItem from="1602816981443" duration="3555000" />
     </task>
     <servers />
   </component>
@@ -128,6 +131,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="280" y="4" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1602818161244" />
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602831886184">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1602831886184" />
     <state x="428" y="119" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602820236485">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -136,22 +143,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1602818075825" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1602820247576">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1602831897794">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602820247576" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1602820247576">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602831897794" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1602831897794">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602820247576" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1602820247576">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602831897794" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1602831897794">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602820247576" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1602820247576">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602831897794" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1602831897794">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602820247576" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602831897794" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1602817260681">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
