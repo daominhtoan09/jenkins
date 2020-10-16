@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groovy-project/groovy-project.iml" filepath="$PROJECT_DIR$/groovy-project/groovy-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/groovy-tutorial/groovy-tutorial.iml" filepath="$PROJECT_DIR$/groovy-tutorial/groovy-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jenkins.iml" filepath="$PROJECT_DIR$/jenkins.iml" />
+    </modules>
+  </component>
+</project>
