@@ -3,10 +3,10 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        bat(script: 'cd /demo', encoding: 'utf8', label: 'Go to demo project')
+        bat(script: 'cd demo', encoding: 'utf8', label: 'Go to demo project')
         bat(script: 'mvn clean', encoding: 'utf8', label: 'Clean')
         bat(script: 'mvn install', encoding: 'utf8', label: 'Install')
-        bat(script: 'cd /groovy-tutorial', encoding: 'utf8', label: 'Go to groovy-tutorial project')
+        bat(script: 'cd groovy-tutorial', encoding: 'utf8', label: 'Go to groovy-tutorial project')
         bat(script: 'mvn clean', encoding: 'utf8', label: 'Clean')
         bat(script: 'mvn install', encoding: 'utf8', label: 'Install')
       }
